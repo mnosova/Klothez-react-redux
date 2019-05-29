@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Klothez-react-redux/static/css/main.4f59122d.chunk.css",
+    "main.js": "/Klothez-react-redux/static/js/main.3c214282.chunk.js",
+    "main.js.map": "/Klothez-react-redux/static/js/main.3c214282.chunk.js.map",
+    "runtime~main.js": "/Klothez-react-redux/static/js/runtime~main.452c11a5.js",
+    "runtime~main.js.map": "/Klothez-react-redux/static/js/runtime~main.452c11a5.js.map",
+    "static/js/2.b8768666.chunk.js": "/Klothez-react-redux/static/js/2.b8768666.chunk.js",
+    "static/js/2.b8768666.chunk.js.map": "/Klothez-react-redux/static/js/2.b8768666.chunk.js.map",
+    "index.html": "/Klothez-react-redux/index.html",
+    "precache-manifest.46d1ce306c48d34df65192d0a7295bf4.js": "/Klothez-react-redux/precache-manifest.46d1ce306c48d34df65192d0a7295bf4.js",
+    "service-worker.js": "/Klothez-react-redux/service-worker.js",
+    "static/css/main.4f59122d.chunk.css.map": "/Klothez-react-redux/static/css/main.4f59122d.chunk.css.map",
+    "static/media/style.scss": "/Klothez-react-redux/static/media/user.d34750c8.svg",
+    "static/media/check.svg": "/Klothez-react-redux/static/media/check.37742cb1.svg",
+    "static/media/img-1.jpg": "/Klothez-react-redux/static/media/img-1.af2c2c02.jpg",
+    "static/media/img-1@2x.jpg": "/Klothez-react-redux/static/media/img-1@2x.92f11cc3.jpg",
+    "static/media/img-1@3x.jpg": "/Klothez-react-redux/static/media/img-1@3x.d0797bb1.jpg",
+    "static/media/img-2.jpg": "/Klothez-react-redux/static/media/img-2.09440481.jpg",
+    "static/media/img-2@2x.jpg": "/Klothez-react-redux/static/media/img-2@2x.4adb38d7.jpg",
+    "static/media/img-2@3x.jpg": "/Klothez-react-redux/static/media/img-2@3x.ad60c221.jpg",
+    "static/media/partner-1@3x.png": "/Klothez-react-redux/static/media/partner-1@3x.879a4008.png",
+    "static/media/partner-2@3x.png": "/Klothez-react-redux/static/media/partner-2@3x.7a8226b9.png",
+    "static/media/partner-4@3x.png": "/Klothez-react-redux/static/media/partner-4@3x.ae34248e.png",
+    "static/media/partner-5@3x.png": "/Klothez-react-redux/static/media/partner-5@3x.10013b6e.png",
+    "static/media/partner-6@2x.png": "/Klothez-react-redux/static/media/partner-6@2x.ae10bcac.png",
+    "static/media/partner-6@3x.png": "/Klothez-react-redux/static/media/partner-6@3x.54f21bfe.png"
+  }
+}
