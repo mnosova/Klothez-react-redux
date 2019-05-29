@@ -1,0 +1,11 @@
+@import '../../../styles/mixins/mixin';
+
+
+
+.section__delivery-methods {
+  padding-top: 3.75rem;
+  @include media-breakpoint-up(xs){
+    padding-top: 3rem;
+  }
+}
+

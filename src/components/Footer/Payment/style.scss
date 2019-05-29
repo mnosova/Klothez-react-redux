@@ -1,0 +1,21 @@
+@import '../../../styles/mixins/mixin';
+
+.footer {
+
+
+  &__block_payment {
+    @include media-breakpoint-up(sm) {
+      padding-top: 2rem;
+    }
+
+  }
+
+  &__payment-list {
+    margin-bottom: 10px;
+    li {
+      margin-right: 10px;
+    }
+  }
+
+
+}
